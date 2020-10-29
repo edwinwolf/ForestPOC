@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForestPOC", "ConsoleApp1\ForestPOC.csproj", "{96C2A3D7-9F3B-4C37-B0E5-CDF829C982EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestTests", "ForestTests\ForestTests.csproj", "{F556112D-8DDE-44E4-86E0-30D5DE39DDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C2A3D7-9F3B-4C37-B0E5-CDF829C982EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C2A3D7-9F3B-4C37-B0E5-CDF829C982EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C2A3D7-9F3B-4C37-B0E5-CDF829C982EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C2A3D7-9F3B-4C37-B0E5-CDF829C982EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F556112D-8DDE-44E4-86E0-30D5DE39DDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F556112D-8DDE-44E4-86E0-30D5DE39DDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F556112D-8DDE-44E4-86E0-30D5DE39DDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F556112D-8DDE-44E4-86E0-30D5DE39DDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2E4BE6-07AC-45EF-A8A7-77CD89BEC84B}
+	EndGlobalSection
+EndGlobal
